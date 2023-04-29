@@ -26,6 +26,7 @@
     border-radius: 0;
     background-color: transparent;
   }
+
   .header-sub {
     display: flex;
     justify-content: space-between;
@@ -50,7 +51,7 @@
     letter-spacing: 0;
     text-align: center;
   }
-  
+
   .fa-bars {
     cursor: pointer;
     color: #6070ff;
@@ -117,12 +118,10 @@
     padding: 8px 15px;
     margin: 3px;
     border-radius: 10px;
-
   }
-  .con ul {}
 
   .icon:hover {
-    background-color: #6070FF;
+    background-color: #6070ff;
     cursor: pointer;
   }
 
